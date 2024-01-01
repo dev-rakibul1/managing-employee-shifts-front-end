@@ -166,7 +166,7 @@ The frontend is developed using React, Redux, and Ant Design. It provides an int
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the development server.
 
-### Backend Pagination, Filter, Search, Sort, Limit (Incomplete)
+### Backend Pagination, Filter, Search, Sort, Limit (completed)
 
 The backend supports pagination, filtering, searching, sorting, and limiting functionality, providing robust features for managing employee data efficiently.
 
